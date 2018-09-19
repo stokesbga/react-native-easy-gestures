@@ -1,5 +1,5 @@
 {
-  "name": "react-native-easy-gestures",
+  "name": "@outfix/react-native-easy-gestures",
   "version": "2.1.2",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
